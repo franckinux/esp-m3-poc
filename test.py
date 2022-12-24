@@ -141,8 +141,8 @@ async def main():
         115200,
         "192.168.1.114",
         8080,
-        "Livebox-79D0",
-        "C3EA70F21E7867881736480366"
+        "Livebox-XXXX",
+        "XXXXXXXXXXXXXXXXXXXXXXXXXX"
     )
     await esp.async_init()
     await esp.run()
